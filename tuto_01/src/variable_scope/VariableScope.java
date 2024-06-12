@@ -1,3 +1,5 @@
+package variable_scope;
+
 public class VariableScope {
 
     public  int age = 28;
